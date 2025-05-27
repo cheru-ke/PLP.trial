@@ -1,3 +1,10 @@
+/*AUTHOR: NAME
+Reg No:BSE-01-0082/2025 P29/1844/2024
+Description:  Zetech grading system
+Date : 27/05r/2025
+Version 1
+*/
+
 #include<iostream>
 using namespace std;
 
