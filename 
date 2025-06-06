@@ -1,0 +1,28 @@
+Merge branch 'main' of https://github.com/cheru-afk/C-crest
+
+# Conflicts:
+#	README.md
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please run
+#	git update-ref -d MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+Merge branch 'main' into current branch#
+# On branch main
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   README.md
+#	new file:   zetech grading system.cpp
+#
+# Untracked files:
+#	BMIcode.exe
+#	NewFile.cpp
+#	NewFile.exe
+#	NewFile1.cpp
+#	NewFile1.exe
+#	bmi rescue'
