@@ -1,3 +1,9 @@
+/*AUTHOR: AARON KIMUTAI ROP
+Reg No:BSE-01-0082/2025 
+Description:  Zetech grading system
+Date : 27/05r/2025
+Version 1
+*/
 #include<iostream>
 using namespace std;
 int main(){
@@ -16,8 +22,10 @@ else if(BMI<=18.5 &&BMI>=24.9){
 cout<<"Normal weight"<<endl;
 }
 
-else if(BMI<=25 &&BMI>=29.9);{
+else if(BMI<=25 &&BMI>=29.9){
 cout<<"Overweight"<<endl;
 }
+else{
+  cout<<"Obesity"<<endl;
 return 0;
 }
